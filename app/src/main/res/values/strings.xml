@@ -2,4 +2,5 @@
     <string name="app_name">LessonFour</string>
     <string name="buttonSend">Отправить сообщение</string>
     <string name="enter_message">Сообщение....</string>
+    <string name="choose_messenger">Choose Messenger</string>
 </resources>
