@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LessonFour</string>
+    <string name="buttonSend">Отправить сообщение</string>
+    <string name="enter_message">Сообщение....</string>
+</resources>
